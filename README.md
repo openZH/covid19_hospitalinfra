@@ -4,13 +4,13 @@
 
 # Hospital Infrastructure
 
-Indicators of interest
-N of hospitals in CH (with name and geolocation)
-N of beds by hospital
-N of ICU beds by hospital
-N of respirators by hospital
-average % bed availability pre-COVID-19 ("Bettenauslastung") by hospital
-N ICU nurses by hospital ("IPS Pflege")
+Indicators of interest <br>
+- N of hospitals in CH (with name and geolocation) <br>
+- N of beds by hospital <br>
+- N of ICU beds by hospital <br>
+- N of respirators by hospital <br>
+- average % bed availability pre-COVID-19 ("Bettenauslastung") by hospital <br>
+- N ICU nurses by hospital ("IPS Pflege") <br>
 
 
 ## Hospitals Canton ZH
