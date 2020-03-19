@@ -4,7 +4,8 @@
 
 # Hospital Infrastructure
 ## Hospitals Canton ZH
-COVID19 cases Canton of Zürich (ZH) - case numbers include persons tested in the Canton of Zürich. The data is updated once a day (times of collection and update may vary). 
+
+
 <br>Official source: 
 
 
