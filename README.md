@@ -3,8 +3,19 @@
 
 
 # Hospital Infrastructure
+
+Indicators of interest <br>
+- N of hospitals in CH (with name and geolocation) <br>
+- N of beds by hospital <br>
+- N of ICU beds by hospital <br>
+- N of respirators by hospital <br>
+- average % bed availability pre-COVID-19 ("Bettenauslastung") by hospital <br>
+- N ICU nurses by hospital ("IPS Pflege") <br>
+
+
 ## Hospitals Canton ZH
-COVID19 cases Canton of Zürich (ZH) - case numbers include persons tested in the Canton of Zürich. The data is updated once a day (times of collection and update may vary). 
+
+
 <br>Official source: 
 
 
